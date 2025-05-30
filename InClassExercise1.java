@@ -18,8 +18,9 @@ public class InClassExercise1
      * @param args
      */
     public static void main(String[] args)
+    
     {
-        System.out.println("In Class Assignment 1 Components  is : ");
+        System.out.println("In Class Assignment 1 Components  is paviter: ");
         InClassExercise1.print1357();   // because print1357 is declared as static
         print1197531();
         print54321();
